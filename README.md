@@ -1,2 +1,2 @@
-# wad-2019-1
-Web Applications Development course at Universidad Piloto de Colombia, Bogotá
+# data-2024-1
+Data Analysis course at Zen
